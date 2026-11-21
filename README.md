@@ -1,4 +1,4 @@
-# Machine Learning Project - Course Recommender System
+# Course Recommender : Using Content-based & Collaborative-filtering recommendations
 
 A recommender system for an online-learning (MOOC) platform that suggests the next courses a learner
 is likely to take. It builds and compares content-based and collaborative-filtering models, then
